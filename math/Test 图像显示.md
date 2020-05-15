@@ -9,3 +9,9 @@
 插入一张 png 格式的看一下
 
 ![](Test 图像显示.assets/5.png)
+
+
+
+测试GitHub上的图像
+
+![](https://github.com/jgdnew21/notes/blob/master/math/Test 图像显示.assets/5.png)
